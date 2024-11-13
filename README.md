@@ -5,7 +5,7 @@ This project is a dynamic news website that fetches and displays the latest news
 
 ## Features
 - **Real-Time News Updates**: Fetches live news articles as they are published.
-- **Category Filtering**: View news based on categories like technology, sports, and health.
+- **Category Filtering**: View news based on categories like ,technology, sports, and health.
 - **Search Functionality**: Search for specific topics or keywords.
 - **Responsive Design**: Mobile-friendly and optimized for different devices.
 - **User-Friendly Interface**: Simple and clean design for easy navigation.
