@@ -1,7 +1,7 @@
 # News Site Using News API
 
 ## Overview
-This project is a dynamic news website that fetches and displays the latest news articles from various sources using the **News API**. It provides users with up-to-date news categorized by topics such as business, technology, sports, health, and more. The goal is to offer an intuitive platform for users to stay informed with current events from trusted sources.
+This project is a dynamic news website that fetches and displays the latest news articles from various sources using the **News API**. It provides users with up-to-date news categorized by topics such as business, technology, sports, health, and more. The goal is to offer an intuitive platform for users to stay informed with current events from trusted sources .
 
 ## Features
 - **Real-Time News Updates**: Fetches live news articles as they are published.
